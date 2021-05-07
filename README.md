@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey, I'm Hisoka 👋
 
-<!--
-**HashT9u/HashT9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My main Coding Languages:
+> Javascript
 
-Here are some ideas to get you started:
+> TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Python
+
+> Golang
+
+
+### Main Project:
+My current Main Project is [Anime-Images-API](https://anime-api.hisoka17.repl.co)
+
+It's an API with 1000+ Images, very useful for Discord Bots. It also has API Wrappers in: [Javascript](https://github.com/HashT9u/Anime-Images-API-Wrapper) And [Python](https://github.com/SkellyM386/anime-images-api)
+
+
+### My Discord:
+Username: ItsHisoka17#0017
+
+Server: [Join](https://discord.gg/WhnmkwgtGb)
