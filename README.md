@@ -20,3 +20,5 @@ It's an API with 1000+ Images, very useful for Discord Bots. It also has API Wra
 Username: ItsHisoka17#0017
 
 Server: [Join](https://discord.gg/WhnmkwgtGb)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHisoka17&layout=compact)](https://github.com/ItsHisoka17/)
