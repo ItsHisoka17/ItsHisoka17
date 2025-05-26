@@ -1,4 +1,4 @@
-### Hey, I'm Jaden 👋
+### Hey 👋
 
 ### My main Coding Languages:
 > Javascript
