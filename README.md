@@ -1,6 +1,7 @@
 ### Hey 👋
 
-### My main Coding Languages:
+### Experienced Backend-Focused Full Stack Developer cureently learning DevOps
+### Proficient in the following Coding Languages:
 > Javascript
 
 > TypeScript
