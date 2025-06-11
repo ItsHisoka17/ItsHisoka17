@@ -1,6 +1,6 @@
 ### Hey 👋
 
-### Experienced Backend-Focused Full Stack Developer cureently learning DevOps
+### Experienced Backend-Focused Full Stack Developer currently learning DevOps
 ### Proficient in the following Coding Languages:
 > Javascript
 
