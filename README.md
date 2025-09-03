@@ -37,7 +37,6 @@ I am a **backend-focused full stack developer** with a strong foundation in buil
 ## Connect With Me
 
 - [LinkedIn]()  
-- [Portfolio]()  
 - [Email](mailto:)  
 
 ---
