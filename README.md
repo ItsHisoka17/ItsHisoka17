@@ -1,5 +1,3 @@
-# Hi, I'm Jxdn
-
 ### Experienced Backend-Focused Full Stack Developer
 
 I am a **backend-focused full stack developer** with a strong foundation in building scalable, maintainable, and high-performance web applications. I am passionate about **modern web development**, **cloud services**, and **DevOps practices** that streamline development and deployment.
@@ -9,23 +7,24 @@ I am a **backend-focused full stack developer** with a strong foundation in buil
 ## 🛠 Skills & Expertise
 
 ### Backend
-- **Node.js** with frameworks such as **Express.js**  
-- RESTful API design and implementation  
+- **Node.js** with frameworks such as **Express.js**
+- **Go** alongside **Node.js** for building microservices  
+- RESTful API and SOAP API design and implementation  
 - Authentication, Authorization, and Security best practices  
 
 ### Frontend
 - **HTML / CSS / JavaScript**  
-- Frameworks: **React.js**, **Bootstrap**  
+- Frameworks: **React.js**, **Vue.js**  
 - Responsive, accessible, and performant UI design  
 
 ### Databases
-- **SQL / MySQL** – schema design, queries, and optimization  
+- **SQL / PostgreSQL** – schema design, queries, and optimization  
 - Experience with relational database modeling  
 
 ### DevOps & Cloud
 - **CI/CD pipelines** for automated build and deployment  
 - **Docker** for containerization  
-- **AWS** and **Google Cloud Platform** for hosting and cloud services  
+- **AWS** and **Terraform** for hosting and cloud services  
 
 ### Other Tools & Practices
 - Version control with **Git / GitHub**  
@@ -36,8 +35,8 @@ I am a **backend-focused full stack developer** with a strong foundation in buil
 
 ## Connect With Me
 
-- [LinkedIn]()  
-- [Email](mailto:)  
+- [LinkedIn](https://www.linkedin.com/in/asher-morales-a16a48383/)  
+- [Email](mailto:jxdnmorales17@gmail.com)  
 
 ---
 
