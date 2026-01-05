@@ -36,7 +36,6 @@ I am a **backend-focused full stack developer** with a strong foundation in buil
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/asher-morales-a16a48383/)  
-- [Email](mailto:jxdnmorales17@gmail.com)  
 
 ---
 
