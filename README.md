@@ -1,29 +1,29 @@
-### Experienced Backend-Focused Full Stack Developer
+### Experienced Backend-Focused Software Engineer
 
-I am a **backend-focused full stack developer** with a strong foundation in building scalable, maintainable, and high-performance web applications. I am passionate about **modern web development**, **cloud services**, and **DevOps practices** that streamline development and deployment.
+I am a **backend-focused software engineer** with a strong foundation in building scalable, maintainable, and high-performance applications.
 
 ---
 
 ## 🛠 Skills & Expertise
 
 ### Backend
-- **Node.js** with frameworks such as **Express.js**
+- **Node.js** with frameworks such as **Express.js** and **Nest.JS**
 - **Go** alongside **Node.js** for building microservices  
 - RESTful API and SOAP API design and implementation  
 - Authentication, Authorization, and Security best practices  
 
 ### Frontend
 - **HTML / CSS / JavaScript**  
-- Frameworks: **React.js**, **Vue.js**  
+- Frameworks: **React.js**, **Vue.js**, **TailwindCSS**
 - Responsive, accessible, and performant UI design  
 
 ### Databases
-- **SQL / PostgreSQL** – schema design, queries, and optimization  
+- **SQL / PostgreSQL** - schema design, queries, and optimization  
 - Experience with relational database modeling  
 
 ### DevOps & Cloud
 - **CI/CD pipelines** for automated build and deployment  
-- **Docker** for containerization  
+- **Docker**, **Kubernetes**, and **Nginx** for containerization, scaling, management, ingress.
 - **AWS** and **Terraform** for hosting and cloud services  
 
 ### Other Tools & Practices
