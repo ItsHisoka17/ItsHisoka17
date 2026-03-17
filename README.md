@@ -4,8 +4,6 @@ I'm a Backend-focused software engineer experienced in designing and building sc
 
 ---
 
-## Current Project
-
 ### Helix
 Helix is an infrastructure automation project focused on managing cloud environments through **Infrastructure as Code (IaC)**. The goal is to create reproducible, scalable infrastructure using automation-first workflows.
 
