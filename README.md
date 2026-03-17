@@ -1,47 +1,59 @@
-### Experienced Backend-Focused Software Engineer
+# Backend-Focused Software Engineer
 
-I am a **backend-focused software engineer** with a strong foundation in building scalable, maintainable, and high-performance applications.
+I'm a Backend-focused software engineer experienced in designing and building scalable, maintainable, and high-performance applications.
 
 ---
 
-## 🛠 Skills & Expertise
+## Current Project
 
-### Backend
-- **Node.js** with frameworks such as **Express.js** and **Nest.JS**
-- **Go** alongside **Node.js** for building microservices  
-- RESTful API and SOAP API design and implementation  
-- Authentication, Authorization, and Security best practices  
+### Helix
+Helix is an infrastructure automation project focused on managing cloud environments through **Infrastructure as Code (IaC)**. The goal is to create reproducible, scalable infrastructure using automation-first workflows.
 
-### Frontend
-- **HTML / CSS / JavaScript**  
-- Frameworks: **React.js**, **Vue.js**, **TailwindCSS**
-- Responsive, accessible, and performant UI design  
+The project explores infrastructure provisioning, environment management, and DevOps tooling to simplify deployment and operations.
+If you would like to contribute to or collaborate on this project, I would love to hear from you on [LinkedIn](https://www.linkedin.com/in/asher-morales-a16a48383/)
+
+🔗 **Repository:**  
+https://github.com/ItsHisoka17/Helix
+
+---
+
+## Technical Skills
+
+### Backend Development
+- **Node.js** (Express.js, NestJS)
+- **Go** for backend services and microservices
+- **RESTful, SOAP, and GraphQL API design**
+- Authentication, authorization, and API security best practices
+
+### Frontend Development
+- **JavaScript, HTML, CSS**
+- Frameworks: **React**, **Vue**
+- Styling with **TailwindCSS**
+- Responsive and accessible UI development
 
 ### Databases
-- **SQL / PostgreSQL** - schema design, queries, and optimization  
-- Experience with relational database modeling  
+- **PostgreSQL**
+- SQL query design and optimization
+- Relational schema design and database modeling
 
 ### DevOps & Cloud
-- **CI/CD pipelines** for automated build and deployment  
-- **Docker**, **Kubernetes**, and **Nginx** for containerization, scaling, management, ingress.
-- **AWS** and **Terraform** for hosting and cloud services  
+- **Docker**, **Kubernetes**, **Nginx**
+- **CI/CD pipelines**
+- **AWS** cloud services
+- **Terraform** for infrastructure as code
 
-### Other Tools & Practices
-- Version control with **Git / GitHub**  
-- Agile methodologies and collaborative development  
-- Testing frameworks and debugging best practices  
+### Tools & Practices
+- **Git / GitHub**
+- Testing and debugging practices
+- Agile development and collaborative workflows
+
+---
+
+## About Me
+
+I enjoy designing reliable backend systems, improving development workflows through automation, and learning technologies that help teams build and deploy software more effectively. I’m particularly interested in Machine-Learning & Automation, infrastructure and DevOps practices, and scalable backend architectures.
 
 ---
 
 ## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/asher-morales-a16a48383/)  
-
----
-
-## 💡About Me
-
-I enjoy designing **efficient backend systems**, building **interactive frontend experiences**, and learning new technologies that improve development workflow. I thrive in **fast-paced environments** and love contributing to projects that have real-world impact.  
-
----
-
+- [LinkedIn](https://www.linkedin.com/in/asher-morales-a16a48383/)
