@@ -21,7 +21,7 @@ https://github.com/ItsHisoka17/Helix
 
 ### Backend Development
 - **Node.js** (Express.js, NestJS)
-- **Go** for backend services and microservices
+- **Go** for high-performance backend services and microservices
 - **RESTful, SOAP, and GraphQL API design**
 - Authentication, authorization, and API security best practices
 
