@@ -4,19 +4,6 @@ I'm a Backend-focused software engineer experienced in designing and building hi
 
 ---
 
-### Helix
-Helix is an infrastructure automation project focused on managing cloud environments through **Infrastructure as Code (IaC)**. The goal is to create reproducible, scalable infrastructure using automation-first workflows.
-
-The project explores infrastructure provisioning, environment management, and DevOps tooling to simplify deployment and operations.
-The purpose of this project is simply taking the busy work out of building infrastruture.
-
-If you would like to contribute to or collaborate on this project, I would love to hear from you on [LinkedIn](https://www.linkedin.com/in/asher-morales-a16a48383/)
-
-**Repository:**  
-https://github.com/ItsHisoka17/Helix
-
----
-
 ## Technical Skills
 
 ### Backend Development
