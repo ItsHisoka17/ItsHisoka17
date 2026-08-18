@@ -1,6 +1,6 @@
 # Backend-Focused Software Engineer
 
-I'm a Backend-focused software engineer experienced in designing and building scalable, maintainable, and high-performance applications.
+I'm a Backend-focused software engineer experienced in designing and building high-performance applications. My interests lie in Automation and Artificial Intelligence focused technologies.
 
 ---
 
